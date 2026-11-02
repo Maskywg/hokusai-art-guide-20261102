@@ -32,6 +32,31 @@ dialog.addEventListener('keydown',e=>{if(artworkIndex!==null&&(e.key==='ArrowLef
 const menu=document.querySelector('.menu-toggle'),nav=document.getElementById('nav');menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open)});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{menu.setAttribute('aria-expanded','false');nav.classList.remove('open')}));
 if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){nav.querySelectorAll('a').forEach(a=>{const active=a.getAttribute('href')==='#'+e.target.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}},{rootMargin:'-15% 0px -65% 0px'});document.querySelectorAll('main section[id]').forEach(el=>observer.observe(el))}
 
-// Start quietly when the visitor presses the native playback control.
+// Try audible autoplay; if blocked, retry on the first page interaction.
 const backgroundMusic=document.getElementById('background-music');
-if(backgroundMusic)backgroundMusic.volume=0.22;
+if(backgroundMusic){
+ backgroundMusic.volume=0.22;
+ let waitingForStart=true;
+ let starting=false;
+ function clearAutoStart(){
+  waitingForStart=false;
+  document.removeEventListener('pointerup',startOnInteraction);
+  document.removeEventListener('keydown',startOnInteraction);
+ }
+ function tryAutoStart(){
+  if(!waitingForStart||starting)return;
+  starting=true;
+  const result=backgroundMusic.play();
+  if(result&&typeof result.catch==='function')result.catch(()=>{}).finally(()=>{starting=false});
+  else starting=false;
+ }
+ function startOnInteraction(event){
+  // Leave native play/pause controls under the visitor's direct control.
+  if(event.target instanceof Element&&event.target.closest('.bgm-player'))return;
+  tryAutoStart();
+ }
+ backgroundMusic.addEventListener('playing',clearAutoStart,{once:true});
+ document.addEventListener('pointerup',startOnInteraction,{passive:true});
+ document.addEventListener('keydown',startOnInteraction);
+ tryAutoStart();
+}
