@@ -27,3 +27,7 @@ https://maskywg.github.io/hokusai-art-guide-20261102/
 ## 本機預覽
 
 直接開啟 index.html，或執行 python3 -m http.server 8000。
+
+## 背景音樂
+
+使用委託者提供的《Edoの波》音檔，循環播放；訪客自行按播放，預設音量22%，可用播放器暫停或調整。音檔為 assets/edo-no-nami.mp3。

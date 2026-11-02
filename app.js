@@ -31,3 +31,7 @@ document.getElementById('lightbox-prev').addEventListener('click',()=>showArtwor
 dialog.addEventListener('keydown',e=>{if(artworkIndex!==null&&(e.key==='ArrowLeft'||e.key==='ArrowRight')){e.preventDefault();showArtwork(artworkIndex+(e.key==='ArrowRight'?1:-1))}});
 const menu=document.querySelector('.menu-toggle'),nav=document.getElementById('nav');menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.classList.toggle('open',open)});nav.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{menu.setAttribute('aria-expanded','false');nav.classList.remove('open')}));
 if('IntersectionObserver' in window){const observer=new IntersectionObserver(entries=>{for(const e of entries)if(e.isIntersecting){nav.querySelectorAll('a').forEach(a=>{const active=a.getAttribute('href')==='#'+e.target.id;a.classList.toggle('active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current')})}},{rootMargin:'-15% 0px -65% 0px'});document.querySelectorAll('main section[id]').forEach(el=>observer.observe(el))}
+
+// Start quietly when the visitor presses the native playback control.
+const backgroundMusic=document.getElementById('background-music');
+if(backgroundMusic)backgroundMusic.volume=0.22;
