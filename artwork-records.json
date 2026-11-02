@@ -1,0 +1,1504 @@
+[
+  {
+    "objectID": 45434,
+    "isHighlight": false,
+    "accessionNumber": "JP1847",
+    "accessionYear": "1929",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830–32",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1842,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 1/8 x 14 15/16 in. (25.7 x 37.9 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 37.9
+        }
+      }
+    ],
+    "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-11-11T04:51:55.68Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/45434",
+    "tags": [
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      },
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q28912605",
+    "isTimelineWork": true,
+    "GalleryNumber": "",
+    "local_file": "assets/great-wave.jpg"
+  },
+  {
+    "objectID": 56727,
+    "isHighlight": false,
+    "accessionNumber": "JP2581",
+    "accessionYear": "1936",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP140973.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP140973.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Print",
+    "title": "Kajikazawa in Kai Province (Kōshū Kajikazawa), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830–32",
+    "objectBeginDate": 1830,
+    "objectEndDate": 1832,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 x 15 1/8 in. (25.4 x 38.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 38.4
+        }
+      }
+    ],
+    "creditLine": "The Howard Mansfield Collection, Purchase, Rogers Fund, 1936",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/56727",
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Fishing",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300239470",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q14373"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Waves",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300343616",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q165848"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/kajikazawa.jpg"
+  },
+  {
+    "objectID": 36502,
+    "isHighlight": false,
+    "accessionNumber": "JP21",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP140984.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP140984.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "At Sea off Kazusa (Kazusa no kairo), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830–32",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1842,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 3/32 x 14 3/4 in. (25.6 x 37.5 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.6,
+          "Width": 37.5
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1914",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2026-08-28T04:59:40.517Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/36502",
+    "tags": [
+      {
+        "term": "Boats",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300178749",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q35872"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/kazusa.jpg"
+  },
+  {
+    "objectID": 36490,
+    "isHighlight": false,
+    "accessionNumber": "JP9",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141062.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141062.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "South Wind, Clear Sky (Gaifū kaisei), also known as Red Fuji, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830–32",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1842,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "9 5/8 x 14 in. (24.4 x 35.6 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 24.4,
+          "Width": 35.6
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1914",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2026-08-28T04:59:40.517Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/36490",
+    "tags": [
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/red-fuji.jpg"
+  },
+  {
+    "objectID": 36492,
+    "isHighlight": false,
+    "accessionNumber": "JP11",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP140976.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP140976.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Storm below Mount Fuji (Sanka no haku u), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830–32",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1842,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 1/8 x 15 1/8 in. (25.7 x 38.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 38.4
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1914",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2026-08-28T04:59:40.517Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/36492",
+    "tags": [
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Storms",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300054734",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q81054"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/storm-fuji.jpg"
+  },
+  {
+    "objectID": 36493,
+    "isHighlight": false,
+    "accessionNumber": "JP12",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP140977.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP140977.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Ejiri in Suruga Province (Sunshū Ejiri), from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830–32",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1842,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 x 14 3/5 in. (25.4 x 37.1 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.4,
+          "Width": 37.1
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1914",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2026-08-28T04:59:40.517Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/36493",
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/ejiri.jpg"
+  },
+  {
+    "objectID": 53790,
+    "isHighlight": false,
+    "accessionNumber": "JP2946",
+    "accessionYear": "1939",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141083.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141083.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Kintai Bridge in Suō Province (Suō no kuni Kintaibashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1840,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 1/4 x 15 1/8 in. (26 x 38.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26,
+          "Width": 38.4
+        }
+      }
+    ],
+    "creditLine": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/53790",
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Rivers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008707",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q4022"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/kintai.jpg"
+  },
+  {
+    "objectID": 53792,
+    "isHighlight": false,
+    "accessionNumber": "JP2947",
+    "accessionYear": "1939",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141275.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141275.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "The Arched Bridge at Kameido Tenjin Shrine (Kameido Tenjin Taikobashi), from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1840,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 1/8 x 15 1/8 in. (25.7 x 38.4 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 25.7,
+          "Width": 38.4
+        }
+      }
+    ],
+    "creditLine": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/53792",
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/kameido.jpg"
+  },
+  {
+    "objectID": 53786,
+    "isHighlight": false,
+    "accessionNumber": "JP2948",
+    "accessionYear": "1939",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141276.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141276.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Togetsu Bridge at Arashiyama in Yamashiro, from the series Remarkable Views of Bridges in Various Provinces (Shokoku meikyō kiran)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1830",
+    "objectBeginDate": 1820,
+    "objectEndDate": 1840,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "10 3/8 x 15 1/4 in. (26.4 x 38.7 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.4,
+          "Width": 38.7
+        }
+      }
+    ],
+    "creditLine": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/53786",
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Hills",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008777",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q54050"
+      },
+      {
+        "term": "Landscapes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132294",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q191163"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/togetsu.jpg"
+  },
+  {
+    "objectID": 45822,
+    "isHighlight": false,
+    "accessionNumber": "14.76.30",
+    "accessionYear": "1914",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DT5290.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DT5290.jpg",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/14_76_30_05_sf.jpg"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Hanging scroll",
+    "title": "Woman Spinning Silk",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "dated 1790",
+    "objectBeginDate": 1790,
+    "objectEndDate": 1790,
+    "medium": "Hanging scroll; ink and color on silk",
+    "dimensions": "Image: 33 3/4 × 12 5/16 in. (85.8 × 31.3 cm)\r\nOverall with mounting: 67 5/16 × 12 5/16 in. (171 × 31.3 cm)\r\nOverall with knobs: 67 5/16 × 19 1/8 in. (171 × 48.5 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall with knobs",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 171,
+          "Width": 48.5
+        }
+      },
+      {
+        "elementName": "Overall with mounting",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 171,
+          "Width": 31.3
+        }
+      },
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 85.8,
+          "Width": 31.3
+        }
+      }
+    ],
+    "creditLine": "Charles Stewart Smith Collection, Gift of Mrs. Charles Stewart Smith, Charles Stewart Smith Jr., and Howard Caswell Smith, in memory of Charles Stewart Smith, 1914",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Paintings",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2026-02-28T04:58:01.027Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/45822",
+    "tags": [
+      {
+        "term": "Birds",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300266506",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5113"
+      },
+      {
+        "term": "Children",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025945",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7569"
+      },
+      {
+        "term": "Women",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025943",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q467"
+      },
+      {
+        "term": "Working",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300412186",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q6958747"
+      }
+    ],
+    "objectWikidata_URL": "https://www.wikidata.org/wiki/Q78836900",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/silk-woman.jpg"
+  },
+  {
+    "objectID": 56128,
+    "isHighlight": false,
+    "accessionNumber": "JP1843",
+    "accessionYear": "1929",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141270.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141270.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Print",
+    "title": "A Woman and Baby",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "1830s",
+    "objectBeginDate": 1830,
+    "objectEndDate": 1839,
+    "medium": "Monochrome woodblock print; ink on paper",
+    "dimensions": "H. 10 1/2 in. (26.7 cm); W. 14 3/4 in. (37.5 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 26.7,
+          "Width": 37.5
+        }
+      }
+    ],
+    "creditLine": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/56128",
+    "tags": [
+      {
+        "term": "Infants",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300189561",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q998"
+      },
+      {
+        "term": "Mothers",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025932",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q7560"
+      },
+      {
+        "term": "Playing",
+        "AAT_URL": null,
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q1150958"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/woman-baby.jpg"
+  },
+  {
+    "objectID": 56019,
+    "isHighlight": false,
+    "accessionNumber": "JP2904",
+    "accessionYear": "1939",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP149197.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP149197.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Print",
+    "title": "The Actor Nakamura Noshio II, in Female Role, Holding a Shakuhachi (Bamboo Flute)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "1796 (Kansei, 6th year)",
+    "objectBeginDate": 1796,
+    "objectEndDate": 1796,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "11 3/4 x 5 1/4 in. (29.8 x 13.3 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 29.8,
+          "Width": 13.3
+        }
+      }
+    ],
+    "creditLine": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/56019",
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Flutes",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300042513",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q11405"
+      },
+      {
+        "term": "Actors",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025658",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q33999"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/noshio.jpg"
+  },
+  {
+    "objectID": 56143,
+    "isHighlight": false,
+    "accessionNumber": "JP2928",
+    "accessionYear": "1939",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141260.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141260.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "The Amida Falls in the Far Reaches of the Kisokaidō Road (Kisoji no oku Amida-ga-taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1832",
+    "objectBeginDate": 1830,
+    "objectEndDate": 1833,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "Image: 14 3/4 x 10 1/4 in. (37.5 x 26 cm)",
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.4651,
+          "Width": 26.0351
+        }
+      }
+    ],
+    "creditLine": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/56143",
+    "tags": [
+      {
+        "term": "Men",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300025928",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8441"
+      },
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/amida.jpg"
+  },
+  {
+    "objectID": 55019,
+    "isHighlight": false,
+    "accessionNumber": "JP1081",
+    "accessionYear": "",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141247.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141247.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Kirifuri Waterfall at Kurokami Mountain in Shimotsuke (Shimotsuke Kurokamiyama Kirifuri no taki), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1832",
+    "objectBeginDate": 1822,
+    "objectEndDate": 1842,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "Image: 14 3/4 × 10 1/4 in. (37.5 × 26 cm)",
+    "measurements": [
+      {
+        "elementName": "Image",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.465076,
+          "Width": 26.035051
+        }
+      }
+    ],
+    "creditLine": "Museum Accession",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/55019",
+    "tags": [
+      {
+        "term": "Human Figures",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300404114",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q5937779"
+      },
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Mountains",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008795",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q8502"
+      },
+      {
+        "term": "Trees",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300132410",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q10884"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/kirifuri.jpg"
+  },
+  {
+    "objectID": 56140,
+    "isHighlight": false,
+    "accessionNumber": "JP2925",
+    "accessionYear": "1939",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP141257.jpg",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP141257.jpg",
+    "additionalImages": [],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Woodblock print",
+    "title": "Ono Waterfall on the Kisokaidō (Kisokaidō Ono no bakufu), from the series A Tour of Waterfalls in Various Provinces (Shokoku taki meguri)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "ca. 1833",
+    "objectBeginDate": 1823,
+    "objectEndDate": 1843,
+    "medium": "Woodblock print; ink and color on paper",
+    "dimensions": "14 3/4 x 10 1/4 in. (37.5 x 26 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Height": 37.5,
+          "Width": 26
+        }
+      }
+    ],
+    "creditLine": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Prints",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-03-06T04:54:30Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/56140",
+    "tags": [
+      {
+        "term": "Bridges",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300386855",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q12280"
+      },
+      {
+        "term": "Waterfalls",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008736",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q34038"
+      },
+      {
+        "term": "Streams",
+        "AAT_URL": "http://vocab.getty.edu/page/aat/300008699",
+        "Wikidata_URL": "https://www.wikidata.org/wiki/Q47521"
+      }
+    ],
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/ono.jpg"
+  },
+  {
+    "objectID": 57679,
+    "isHighlight": false,
+    "accessionNumber": "JIB81.1",
+    "accessionYear": "1931",
+    "isPublicDomain": true,
+    "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/JIB_81_1_Preface_1_sf.JPG",
+    "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/JIB_81_1_Preface_1_sf.JPG",
+    "additionalImages": [
+      "https://images.metmuseum.org/CRDImages/as/original/JIB81_1_d_MM52472.JPG",
+      "https://images.metmuseum.org/CRDImages/as/original/JIB_81_1_Front Cover_sf.JPG",
+      "https://images.metmuseum.org/CRDImages/as/original/JIB_81_1_Preface_2_sf.JPG",
+      "https://images.metmuseum.org/CRDImages/as/original/JIB_81_1_Back Cover_sf.JPG"
+    ],
+    "constituents": [
+      {
+        "constituentID": 164560,
+        "role": "Artist",
+        "name": "Katsushika Hokusai",
+        "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+        "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+        "gender": ""
+      }
+    ],
+    "department": "Asian Art",
+    "objectName": "Illustrated book",
+    "title": "Transmitting the Spirit, Revealing the Form of Things: Hokusai Sketchbooks, first volume (Denshin kaishu: Hokusai manga, shohen)",
+    "culture": "Japan",
+    "period": "Edo period (1615–1868)",
+    "dynasty": "",
+    "reign": "",
+    "portfolio": "",
+    "artistRole": "Artist",
+    "artistPrefix": "",
+    "artistDisplayName": "Katsushika Hokusai",
+    "artistDisplayBio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+    "artistSuffix": "",
+    "artistAlphaSort": "Katsushika Hokusai",
+    "artistNationality": "Japanese",
+    "artistBeginDate": "1760",
+    "artistEndDate": "1849",
+    "artistGender": "",
+    "artistWikidata_URL": "https://www.wikidata.org/wiki/Q5586",
+    "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500060426",
+    "objectDate": "after 1828",
+    "objectBeginDate": 1828,
+    "objectEndDate": 1868,
+    "medium": "Woodblock printed book; ink and color on paper",
+    "dimensions": "Overall: 9 × 6 1/4 × 3/8 in. (22.9 × 15.9 × 1 cm)",
+    "measurements": [
+      {
+        "elementName": "Overall",
+        "elementDescription": null,
+        "elementMeasurements": {
+          "Depth": 0.9525019,
+          "Height": 22.860046,
+          "Width": 15.875031
+        }
+      }
+    ],
+    "creditLine": "Rogers Fund, 1931",
+    "geographyType": "",
+    "city": "",
+    "state": "",
+    "county": "",
+    "country": "",
+    "region": "",
+    "subregion": "",
+    "locale": "",
+    "locus": "",
+    "excavation": "",
+    "river": "",
+    "classification": "Illustrated Books",
+    "rightsAndReproduction": "",
+    "linkResource": "",
+    "metadataDate": "2025-10-20T04:51:47.577Z",
+    "repository": "Metropolitan Museum of Art, New York, NY",
+    "objectURL": "https://www.metmuseum.org/art/collection/search/57679",
+    "tags": null,
+    "objectWikidata_URL": "",
+    "isTimelineWork": false,
+    "GalleryNumber": "",
+    "local_file": "assets/manga.jpg"
+  }
+]
